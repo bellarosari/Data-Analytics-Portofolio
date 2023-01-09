@@ -19,7 +19,6 @@ Hi! My name is Dionesia Bella Rosari, and you can call me Bella. Here is my Port
 #### Example
 1. Property Listings Price in Kuala Lumpur
 2. Fast Food Marketing Campaign
-3. Fast Food Marketing Campaign (Deck)
   
 ## SQL skill sets
 - Standard Query Syntax
@@ -62,7 +61,7 @@ The Look E-commerce Public Dataset
 
 #### Code Example:
 1. Exploratory Data Analysis and User Segmentation of Mutual Funds Investment
-2. Regression and Benefit Cost Analysis of Mutual Funds Investment
+2. Regression and Benefit Cost Analysis of Government Bond Investment
 
 
 ## Dataviz using Google Data Studio
@@ -88,7 +87,7 @@ Airbnb Listings in Singapore
 
 #### Dashboard
 1. Airbnb Listings in Singapore
-2. Covid Performance
+2. Covid-19 Vaccination
 
 
 ## Project Based Analytics
